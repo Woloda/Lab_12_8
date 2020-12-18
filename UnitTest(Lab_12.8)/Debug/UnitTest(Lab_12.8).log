@@ -1,0 +1,4 @@
+﻿  UnitTest(Lab_12.8).cpp
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_12.8\Lab_12.8\Lab_12.8.cpp(34,9): warning C4101: 'value': unreferenced local variable
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_12.8\UnitTest(Lab_12.8)\UnitTest(Lab_12.8).cpp(19,11): warning C4101: 'value': unreferenced local variable
+  UnitTest(Lab_12.8).vcxproj -> E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_12.8\Debug\UnitTest(Lab_12.8).dll
